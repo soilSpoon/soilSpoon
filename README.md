@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://github.com/nunomaduro"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=soilSpoon&show_icons=true" align="right" height="150" /></a>
+
 <!--
 **soilSpoon/soilSpoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
